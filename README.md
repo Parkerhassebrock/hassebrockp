@@ -1,2 +1,2 @@
 # hassebrockp
-My personal website
+Learning GitHub is fun.
